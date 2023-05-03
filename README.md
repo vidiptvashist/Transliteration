@@ -10,4 +10,4 @@
 
 
 ## Graphs
-[Iteration 99 Loss 0.21607725322246552](https://user-images.githubusercontent.com/86826802/236028741-112b98d4-f350-49d9-9625-43af0d0c7ada.png) |
+[Iteration 99 Loss 0.21607725322246552](https://user-images.githubusercontent.com/86826802/236028741-112b98d4-f350-49d9-9625-43af0d0c7ada.png) 
