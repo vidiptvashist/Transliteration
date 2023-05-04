@@ -24,6 +24,7 @@ Example of Transliteration
 | Model 2  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D200_bs%3D64_e%3D256.pt)   | 200 | 0.14442181587219238 | 77.11415632218576 |
 | Model 3  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D300_bs%3D64_e%3D256.pt)   | 300 | 0.12240982055664062 | 79.13928839476316 |
 | Model 4  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D500_bs%3D64_e%3D256.pt)   | 500 | 0.09494910389184952 | 80.78228581698959 |
+| Model 5  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D500_bs%3D128_e%3D256.pt)   | 100 | 0.10732661187648773 | 71.24015788947327 |
 
 
 ## Graphs
@@ -38,6 +39,7 @@ Example of Transliteration
 
 4 [Iteration 499 Loss 0.09494910389184952](https://user-images.githubusercontent.com/86826802/236190593-f5dc62cd-683e-42e5-9da9-0eaeae8b5209.png)
 
+5 [Iteration 99 Loss 0.10732661187648773](https://user-images.githubusercontent.com/86826802/236207579-83b6772c-51b6-43fe-8b57-0ac6f1034d56.png)
 
 
 
