@@ -4,8 +4,6 @@ Transliteration is the process of converting text from one script to another scr
 | DATASET | LINK |
 | ------------- | ------------- |
 | FIRE 2013 | [link](http://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html) |
-| Processed | [link](http://cse.iitkgp.ac.in/resgrp/cnerg/qa/fire13translit/index.html) |
-
 
 In this project English is transliterated to Hindi
 
@@ -24,8 +22,8 @@ Example of Transliteration
 | Model 2  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D200_bs%3D64_e%3D256.pt)   | 200 | 0.14442181587219238 | 77.11415632218576 |
 | Model 3  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D300_bs%3D64_e%3D256.pt)   | 300 | 0.12240982055664062 | 79.13928839476316 |
 | Model 4  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D500_bs%3D64_e%3D256.pt)   | 500 | 0.09494910389184952 | 80.78228581698959 |
-| Model 5  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D500_bs%3D128_e%3D256.pt)   | 100 | 0.10732661187648773 | 71.24015788947327 |
-
+| Model 5  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D100_bs%3D128_e%3D256.pt)   | 100 | 0.10732661187648773 | 71.24015788947327 |
+| Model 5  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D200_bs%3D128_e%3D256.pt)   | 100 | 0.06515125930309296 | 80.07900605723651 |
 
 ## Graphs
 
@@ -41,6 +39,7 @@ Example of Transliteration
 
 5 [Iteration 99 Loss 0.10732661187648773](https://user-images.githubusercontent.com/86826802/236207579-83b6772c-51b6-43fe-8b57-0ac6f1034d56.png)
 
+6 [Iteration 99 Loss 0.06515125930309296](https://user-images.githubusercontent.com/86826802/236248584-856da06c-c188-4ee4-9072-40f518a0f9ce.png)
 
 
 
