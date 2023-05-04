@@ -1,4 +1,7 @@
 # Transliteration
+Transliteration is the process of converting text from one script to another script, while keeping the phonetic meaning of the words intact. In the context of machine learning, transliteration is a task where given a word in one script, the goal is to predict its pronunciation in another script.
+
+In this project English is transliterated to Hindi
 
 ## Result
 
