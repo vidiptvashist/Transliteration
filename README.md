@@ -4,6 +4,8 @@ Transliteration is the process of converting text from one script to another scr
 In this project English is transliterated to Hindi
 
 Example of Transliteration
+
+
 ![Example](https://user-images.githubusercontent.com/86826802/236172512-79982ad7-46c0-48e1-8f26-2d44fffc78dc.png)
 
 ## Result
