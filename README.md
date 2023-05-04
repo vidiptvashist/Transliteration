@@ -1,5 +1,4 @@
 # Transliteration
-*Project still in progress
 
 ## Result
 
