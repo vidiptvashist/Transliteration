@@ -25,7 +25,7 @@ Example of Transliteration
 | Model 5  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D100_bs%3D128_e%3D256.pt)   | 100 | 0.10732661187648773 | 71.24015788947327 |
 | Model 6  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D200_bs%3D128_e%3D256.pt)   | 200 | 0.06515125930309296 | 80.07900605723651 |
 | Model 7  | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D500_bs%3D128_e%3D256.pt)   | 500 | 0.04235030710697174 | 82.2286011951464 |
-| Model 8 | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D1000_bs%3D1923D256.pt)   | 1000 0.018823904916644096 | 83.17876711915679 |
+| Model 8 | [Link](https://github.com/vidiptvashist/Transliteration/blob/main/model/model1__lr_0.01_nb%3D1000_bs%3D1923D256.pt)   | 1000| 0.018823904916644096 | 83.17876711915679 |
 
 
 ## Graphs
